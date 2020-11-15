@@ -1,3 +1,3 @@
-# Welcome to my blog
+# The Adventures of a Technical Writer Manager
 
 I'm glad you are here. I plan to talk about ...
