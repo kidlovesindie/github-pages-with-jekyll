@@ -1,5 +1,5 @@
 ---
-title: "Hello World"
+title: "Adventures of a Technical Writer Manager"
 date: 2020-11-23
 ---
 
@@ -7,9 +7,7 @@ title: Caley Burton
 author: People Manager, Technical Writer
 email: caleyburton@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+Check out my repos, my code and documentation contributions, and my love for open source projects.
 
 # social links
 twitter_username: caleycaley
